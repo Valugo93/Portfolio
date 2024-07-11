@@ -1,12 +1,12 @@
 {
     "projects": [
         {
-            "title": "Proyecto 1",
-            "description": "Descripción del proyecto 1.",
+            "title": "Portfolio",
+            "description": "Creacion del portfolio con actualización continua.",
             "image": "images/proyecto1.jpg",
             "languages": ["HTML", "CSS", "JavaScript"],
             "ides": ["Visual Studio Code"],
-            "repository": "https://github.com/Valugo93/proyecto1",
+            "repository": "https://github.com/Valugo93/Portfolio",
             "logo": {
                 "HTML": "html-logo.png",
                 "CSS": "css-logo.png",
