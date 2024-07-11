@@ -17,7 +17,7 @@
             "repository": "https://github.com/Valugo93/proyecto2"
         },
         {
-            "title": "Proyecto 1",
+            "title": "Proyecto 3",
             "description": "Descripción del proyecto 1.",
             "image": "images/proyecto1.jpg",
             "languages": ["HTML", "CSS", "JavaScript"],
@@ -25,7 +25,7 @@
             "repository": "https://github.com/Valugo93/proyecto1"
         },
         {
-            "title": "Proyecto 2",
+            "title": "Proyecto 4",
             "description": "Descripción del proyecto 2.",
             "image": "images/proyecto2.jpg",
             "languages": ["Java", "SQL"],
