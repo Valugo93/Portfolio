@@ -1,12 +1,12 @@
 {
     "projects": [
         {
-            "title": "Proyecto 1",
-            "description": "Descripción del proyecto 1.",
+            "title": "Primera prueba",
+            "description": "Test lectura Git to HTML",
             "image": "images/proyecto1.jpg",
             "languages": ["HTML", "CSS", "JavaScript"],
-            "ides": ["Visual Studio Code"],
-            "repository": "https://github.com/Valugo93/proyecto1"
+            "ides": ["Visual Studio Code", " Git"],
+            "repository": "https://github.com/Valugo93"
         },
         {
             "title": "Proyecto 2",
