@@ -36,6 +36,30 @@
                 "Java": "java-logo.png",
                 "SQL": "sql-logo.png"
             }
+        },
+        {
+            "title": "Proyecto 4",
+            "description": "Descripción del proyecto 2.",
+            "image": "images/proyecto2.jpg",
+            "languages": ["Java", "SQL"],
+            "ides": ["Eclipse"],
+            "repository": "https://github.com/Valugo93/proyecto2",
+            "logo": {
+                "Java": "java-logo.png",
+                "SQL": "sql-logo.png"
+            }
+        },
+        {
+            "title": "Proyecto 5",
+            "description": "Descripción del proyecto 2.",
+            "image": "images/proyecto2.jpg",
+            "languages": ["Java", "SQL"],
+            "ides": ["Eclipse"],
+            "repository": "https://github.com/Valugo93/proyecto2",
+            "logo": {
+                "Java": "java-logo.png",
+                "SQL": "sql-logo.png"
+            }
         }
     ]
 }
