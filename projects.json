@@ -1,12 +1,17 @@
 {
     "projects": [
         {
-            "title": "Primera prueba",
-            "description": "Test lectura Git to HTML",
+            "title": "Proyecto 1",
+            "description": "Descripción del proyecto 1.",
             "image": "images/proyecto1.jpg",
             "languages": ["HTML", "CSS", "JavaScript"],
-            "ides": ["Visual Studio Code", " Git"],
-            "repository": "https://github.com/Valugo93"
+            "ides": ["Visual Studio Code"],
+            "repository": "https://github.com/Valugo93/proyecto1",
+            "logo": {
+                "HTML": "html-logo.png",
+                "CSS": "css-logo.png",
+                "JavaScript": "javascript-logo.png"
+            }
         },
         {
             "title": "Proyecto 2",
@@ -14,23 +19,24 @@
             "image": "images/proyecto2.jpg",
             "languages": ["Java", "SQL"],
             "ides": ["Eclipse"],
-            "repository": "https://github.com/Valugo93/proyecto2"
+            "repository": "https://github.com/Valugo93/proyecto2",
+            "logo": {
+                "Java": "java-logo.png",
+                "SQL": "sql-logo.png"
+            }
         },
         {
             "title": "Proyecto 3",
-            "description": "Descripción del proyecto 1.",
-            "image": "images/proyecto1.jpg",
-            "languages": ["HTML", "CSS", "JavaScript"],
-            "ides": ["Visual Studio Code"],
-            "repository": "https://github.com/Valugo93/proyecto1"
-        },
-        {
-            "title": "Proyecto 4",
             "description": "Descripción del proyecto 2.",
             "image": "images/proyecto2.jpg",
             "languages": ["Java", "SQL"],
             "ides": ["Eclipse"],
-            "repository": "https://github.com/Valugo93/proyecto2"
+            "repository": "https://github.com/Valugo93/proyecto2",
+            "logo": {
+                "Java": "java-logo.png",
+                "SQL": "sql-logo.png"
+            }
         }
     ]
 }
+
