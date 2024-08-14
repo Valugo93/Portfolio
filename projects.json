@@ -36,6 +36,23 @@
                 "HTML": "java_logo.png",
                 "CSS": "sql_logo.png"
             }
+        },
+        {
+            "title": "Proyecto 3",
+            "description": "Todavia no lo he pensado.",
+            "image": "images/proyecto1.jpg",
+            "languages": [
+                "Java",
+                "SQL",
+            ],
+            "ides": [
+                "Android Studio"
+            ],
+            "repository": "https://github.com/Valugo93/Portfolio",
+            "logo": {
+                "Java": "java_logo.png",
+                "SQL": "sql_logo.png"
+            }
         }
     ]
 }
