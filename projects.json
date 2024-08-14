@@ -8,11 +8,11 @@
             "ides": ["Visual Studio Code"],
             "repository": "https://github.com/Valugo93/Portfolio",
             "logo": {
-                "HTML": "html-logo.png",
-                "CSS": "css-logo.png",
-                "JavaScript": "javascript-logo.png"
+                "HTML": "html_logo.png",
+                "CSS": "css_logo.png",
+                "JavaScript": "javascript_logo.png"
             }
-        },
+        }/*,
         {
             "title": "Proyecto 2",
             "description": "Descripción del proyecto 2.",
@@ -60,7 +60,7 @@
                 "Java": "java-logo.png",
                 "SQL": "sql-logo.png"
             }
-        }
+        }*/
     ]
 }
 
