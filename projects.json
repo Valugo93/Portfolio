@@ -4,20 +4,33 @@
             "title": "Portfolio",
             "description": "Creacion del portfolio con actualización continua.",
             "image": "images/proyecto1.jpg",
-            "languages": ["HTML", "CSS", "JavaScript"],
-            "ides": ["Visual Studio Code"],
+            "languages": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "ides": [
+                "Visual Studio Code"
+            ],
             "repository": "https://github.com/Valugo93/Portfolio",
             "logo": {
                 "HTML": "html_logo.png",
                 "CSS": "css_logo.png",
                 "JavaScript": "javascript_logo.png"
             }
-        },{
+        },
+        {
             "title": "Portfolio2",
             "description": "Creacion del portfolio con actualización continua.",
             "image": "images/proyecto1.jpg",
-            "languages": ["HTML", "CSS", "JavaScript"],
-            "ides": ["Visual Studio Code"],
+            "languages": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "ides": [
+                "Visual Studio Code"
+            ],
             "repository": "https://github.com/Valugo93/Portfolio",
             "logo": {
                 "HTML": "java_logo.png",
@@ -26,4 +39,3 @@
         }
     ]
 }
-
