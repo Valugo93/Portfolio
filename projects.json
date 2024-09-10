@@ -22,7 +22,7 @@
         {
             "title": "BabyNames",
             "description": "Una ayuda a elegir el nombre del nuevo miembro en la familia.",
-            "image": "images/Android.jpg",
+            "image": "images/android.jpg",
             "languages": [
                 "Java",
                 "SQL",
