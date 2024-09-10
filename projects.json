@@ -34,8 +34,8 @@
             ],
             "repository": "https://github.com/Valugo93/Portfolio",
             "logo": {
-                "JAVA": "java_logo.png",
-                "CSS": "sql_logo.png",
+                "Java": "java_logo.png",
+                "SQL": "sql_logo.png",
                 "HTML": "html_logo.png",
                 "PHP": "php_logo-png"
             }
