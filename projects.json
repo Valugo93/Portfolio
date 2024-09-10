@@ -20,37 +20,24 @@
             }
         },
         {
-            "title": "Portfolio2",
-            "description": "Creacion del portfolio con actualización continua.",
-            "image": "images/proyecto1.jpg",
+            "title": "BabyNames",
+            "description": "Una ayuda a elegir el nombre del nuevo miembro en la familia.",
+            "image": "images/Android.jpg",
             "languages": [
+                "Java",
+                "SQL",
                 "HTML",
-                "CSS"
+                "PHP"
             ],
             "ides": [
                 "Visual Studio Code"
             ],
             "repository": "https://github.com/Valugo93/Portfolio",
             "logo": {
-                "HTML": "java_logo.png",
-                "CSS": "sql_logo.png"
-            }
-        },
-        {
-            "title": "Proyecto 3",
-            "description": "Todavia no lo he pensado.",
-            "image": "images/proyecto1.jpg",
-            "languages": [
-                "Java",
-                "SQL"
-            ],
-            "ides": [
-                "Android Studio"
-            ],
-            "repository": "https://github.com/Valugo93/Portfolio",
-            "logo": {
-                "Java": "java_logo.png",
-                "SQL": "sql_logo.png"
+                "JAVA": "java_logo.png",
+                "CSS": "sql_logo.png",
+                "HTML": "html_logo.png",
+                "PHP": "php_logo-png"
             }
         }
     ]
